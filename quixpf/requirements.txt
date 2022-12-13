@@ -1,0 +1,7 @@
+matplotlib
+numpy
+Pillow
+pyqtgraph
+PyQt6
+transformations
+pynetworktables==2021.0.0

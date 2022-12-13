@@ -1,0 +1,3 @@
+casadi~=3.5.5
+matplotlib~=3.3.3
+numpy~=1.16.4
